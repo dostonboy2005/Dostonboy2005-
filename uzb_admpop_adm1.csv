@@ -1,0 +1,16 @@
+﻿ADM0_EN,ADM0_RU,ADM0_UZ,ADM0ALTEN,ADM0_PCODE,ADM1_RU,ADM1_UZ,ADM1_EN,ADM1TYPEEN,ADM1_PCODE,ADM1TYPERU,ADM1TYPEUZ,Total_pop,Urban_pop,Rural_pop,Male_pop,Female_pop
+,,,,#country+code+v_iso2,#admin1+name+i_ru,#admin1+name+i_uz,#admin1+name+i_en,#loc+type+i_en,#admin1+code+v_pcode,#loc+type+i_ru,#loc+type+i_uz,,,,,
+Uzbekistan,Республика Узбекистан,O'zbekiston Respublikasi,Republic of Uzbekistan,UZ,Андижанская,Andijon,Andizhan,province,UZ03,область,viloyati,3011700,1576000,1435700,1521400,1490300
+Uzbekistan,Республика Узбекистан,O'zbekiston Respublikasi,Republic of Uzbekistan,UZ,Бухарская,Buxoro,Bukhara,province,UZ06,область,viloyati,1870200,698600,1171600,935600,934600
+Uzbekistan,Республика Узбекистан,O'zbekiston Respublikasi,Republic of Uzbekistan,UZ,Джизакская,Jizzax,Dzhizak,province,UZ08,область,viloyati,1325000,622200,702800,666100,658900
+Uzbekistan,Республика Узбекистан,O'zbekiston Respublikasi,Republic of Uzbekistan,UZ,Кашкадарьинская,Qashqadaryo,Kashkadarya,province,UZ10,область,viloyati,3148400,1357500,1790900,1589600,1558800
+Uzbekistan,Республика Узбекистан,O'zbekiston Respublikasi,Republic of Uzbekistan,UZ,Навоийская,Navoiy,Navoi,province,UZ12,область,viloyati,958000,467600,490400,485500,472500
+Uzbekistan,Республика Узбекистан,O'zbekiston Respublikasi,Republic of Uzbekistan,UZ,Наманганская,Namangan ,Namangan,province,UZ14,область,viloyati,2699600,1743700,955900,1369500,1330100
+Uzbekistan,Республика Узбекистан,O'zbekiston Respublikasi,Republic of Uzbekistan,UZ,Самаркандская,Samarqand ,Samarkand,province,UZ18,область,viloyati,3720100,1390800,2329300,1868000,1852100
+Uzbekistan,Республика Узбекистан,O'zbekiston Respublikasi,Republic of Uzbekistan,UZ,Сурхандарьинская,Surxandaryo,Surkhandarya,province,UZ22,область,viloyati,2514200,893300,1620900,1269300,1244900
+Uzbekistan,Республика Узбекистан,O'zbekiston Respublikasi,Republic of Uzbekistan,UZ,Сырдарьинская,Sirdaryo ,Syrdarya,province,UZ24,область,viloyati,815900,350000,465900,409800,406100
+Uzbekistan,Республика Узбекистан,O'zbekiston Respublikasi,Republic of Uzbekistan,UZ,г.Ташкент,Toshkent ш.,Tashkent city,independent city,UZ26,город,shahri,2464900,2464900,0,1202500,1262400
+Uzbekistan,Республика Узбекистан,O'zbekiston Respublikasi,Republic of Uzbekistan,UZ,Ташкентская,Toshkent,Tashkent ,province,UZ27,область,viloyati,2861200,1411500,1449700,1431700,1429500
+Uzbekistan,Республика Узбекистан,O'zbekiston Respublikasi,Republic of Uzbekistan,UZ,Ферганская ,Farg'ona ,Fergana,province,UZ30,область,viloyati,3620200,2049900,1570300,1822400,1797800
+Uzbekistan,Республика Узбекистан,O'zbekiston Respublikasi,Republic of Uzbekistan,UZ,Хорезмская,Xorazm,Khorezm,province,UZ33,область,viloyati,1805000,601200,1203800,902000,903000
+Uzbekistan,Республика Узбекистан,O'zbekiston Respublikasi,Republic of Uzbekistan,UZ,Республика Каракалпакстан,Qoraqalpog'iston Respublikasi,Republic of Karakalpakstan,autonomous republic,UZ35,автономная республика,muxtor respublikasi,1842300,905500,936800,924500,917800
